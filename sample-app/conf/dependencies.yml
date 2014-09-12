@@ -1,0 +1,13 @@
+# Application dependencies
+
+require:
+    - play 1.2.7
+    - grayshirts -> gzip 1.0
+
+
+repositories:
+    - My local modules:
+        type:       local
+        artifact:   ${application.path}/../[module]
+        contains:
+            - grayshirts -> *

@@ -1,0 +1,17 @@
+bin/
+data/
+db/
+dist/
+logs/
+test-result/
+eclipse/
+lib/
+tmp/
+.svn/
+modules/
+*.svn/
+.classpath
+.settings
+.project
+precompiled/
+.DS_Store
