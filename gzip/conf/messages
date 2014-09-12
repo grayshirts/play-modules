@@ -1,0 +1,5 @@
+# Default gzip messages
+# You can specialize this file for each language.
+# For exemple, for french create a messages.fr file
+
+#gzip.name=gzip
