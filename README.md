@@ -33,26 +33,16 @@ repositories:
 ---------------------------
 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Coming soon modules  ###
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Playframework updater (netty, groovy, etc)
+* Static resources minifier
+* Better CRUDs for MongoDB
+* Cache optimizations
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+Feel free to use, comment or suggest enhancements for these modules.
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+
