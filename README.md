@@ -1,4 +1,4 @@
-# Grayshirt Playframework Modules #
+# Grayshirts Playframework Modules #
 
 Modules for add functionality to Play Framework 1.2.x
 
