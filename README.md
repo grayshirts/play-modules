@@ -24,6 +24,11 @@ repositories:
 
 ```
 
+Also remember to create the file conf/play.plugins and add this line to activate Gzip Plugin 
+
+```
+1001:plugins.gzip.GzipCompressionPlugin
+```
 
 ---------------------------
 
