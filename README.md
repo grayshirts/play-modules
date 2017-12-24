@@ -20,7 +20,7 @@ Remember to add grayshirts repository to download dependencies
 repositories:
     - grayshirts:
         type: http
-        artifact: "https://bytebucket.org/grayshirts/play-modules/raw/b9f3505c59ed14388c2767f432297fd2a7d12001/[module]/dist/[module]-[revision].zip"
+        artifact: "https://github.com/grayshirts/play-modules/raw/master/[module]/dist/[module]-[revision].zip"
         contains:
             - ar.com.grayshirts -> *
 
