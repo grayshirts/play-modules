@@ -14,8 +14,6 @@ Modules for adding functionality to Play Framework 1.2.x
 ### Available modules ###
 Remember to add grayshirts repository to download dependencies
 ```
-#!java
-
 
 repositories:
     - grayshirts:
