@@ -6,11 +6,8 @@ Modules for adding functionality to Play Framework 1.2.x
 
 
 ```
-#!java
-
 
     - ar.com.grayshirts -> gzip 0.2
-
 
 ```
 
